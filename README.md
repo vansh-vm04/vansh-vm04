@@ -1,6 +1,6 @@
 # Hey Developers! 👋
 
-### I'm **Vansh Morwani**, a passionate **Full Stack Developer** who loves building cool and meaningful projects. I'm fascinated by the world of development, and I bring ideas to life through code.  
+### I'm **Vansh**, a passionate **Full Stack Developer** who loves building cool and meaningful projects. I'm fascinated by the world of development, and I bring ideas to life through code.  
 Feel free to explore my repositories to see what I’ve been working on!
 
 ---
