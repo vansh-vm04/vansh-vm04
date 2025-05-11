@@ -1,11 +1,10 @@
 # Hey Developers! 👋
 
-### I'm **Vansh**, a passionate **Full Stack Developer** who loves building cool and meaningful projects. I'm fascinated by the world of development, and I bring ideas to life through code.  
-Feel free to explore my repositories to see what I’ve been working on!
+### I'm **Vansh**, a passionate **Full Stack Developer** who loves building cool and meaningful projects. I'm fascinated by the world of development, and I bring ideas to life through code.
 
 ---
 
-## 🚀 Check out my Portfolio  
+### 🚀 Check out my Portfolio  
 🔗 [**vansh27.vercel.app**](https://vansh27.vercel.app/)
 
 ---
@@ -34,5 +33,11 @@ Feel free to explore my repositories to see what I’ve been working on!
 </p>
 
 ---
+</br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vansh-vm04&show_icons=true&locale=en&layout=compact" alt="Vansh" /></p>
 
-Thanks for visiting my profile! Let’s build something awesome together. 🚀
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-vm04&" alt="Vansh" /></p>
+
+Thanks for visiting my profile! 
+
+Loved my work..? Give it a star⭐
