@@ -38,6 +38,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vansh-vm04&" alt="Vansh" /></p>
 
-Thanks for visiting my profile! 
+#### Thanks for visiting my profile! 
 
-Loved my work..? Give it a star⭐
+#### Loved my work..? Give it a star⭐
