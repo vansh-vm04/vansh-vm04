@@ -1,40 +1,20 @@
-# Building Cool Stuff 👨‍💻☕♥️
----
-### 🚀 Check out my Portfolio  
-🔗 [**vansh27.vercel.app**](https://vansh27.vercel.app/)
+# Hey There! 👋
+**I'm Vansh** - I'm a fullstack developer. I work on random projects in my free time.
 
----
+Check out my [portfolio](https://vansh27.vercel.app/).
 
-## 🛠️ Tech Stack
-
-### 💻 Frontend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" alt="Frontend Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vercel,npm,docker,vite,postman" alt="Skills" />
   </a>
 </p>
 
-### 🧠 Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql" alt="Backend Skills" />
-  </a>
-</p>
+<details>
+  <summary>Github Stats ⚡</summary>
 
-### 🧰 Tools & Platforms
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,npm,docker,vite,postman" alt="Tools & Platforms" />
-  </a>
-</p>
-
----
-</br>
-
-![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs?username=vansh-vm04&show_icons=true&locale=en&layout=compact)
-
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=vansh-vm04)
-
-#### Thanks for visiting my profile! 
+  <a href="#">![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=vansh-vm04&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vansh-vm04&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+  
+</details>
 
 #### Loved my work..? Give it a star⭐
