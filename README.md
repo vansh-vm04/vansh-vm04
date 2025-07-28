@@ -9,7 +9,7 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vercel,npm,docker,vite,postman" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,nodejs,express,mongodb,postgresql,mysql,git,github,vercel,npm,docker,vite,postman" alt="Skills" />
   </a>
 </p>
 
