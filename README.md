@@ -1,5 +1,5 @@
 <div style='display:flex; flex-direction:column;' align="left">
-    <span style='font-weight:bold; font-size:20px; padding-bottom:20px'>👋🏻 Hey! I'm <a href="https://vansh27.vercel.app" target="_blank">Vansh</a></span>
+    <span style='font-weight:bold; font-size:20px; padding-bottom:20px;'>👋🏻 Hey! I'm <a href="https://vansh27.vercel.app" target="_blank">Vansh</a></span>
     <span style="color:white">Learning and building everyday - one commit at a time.</span>
 </div>
 
