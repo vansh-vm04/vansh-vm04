@@ -1,6 +1,6 @@
 ### 👋🏻 Hey! I'm [Vansh](https://vansh27.vercel.app)
 
-<span>Learning and building everyday - one commit at a time.</span>
+<span>Learning and building everyday - one feature at a time.</span>
 
 ---
 
