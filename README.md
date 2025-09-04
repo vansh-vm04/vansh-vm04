@@ -1,6 +1,6 @@
 <div align='center'>
 
-### 👋🏻 Hey! I'm [Vansh](https://vansh27.vercel.app)
+### 👋🏻 Hey! I'm [Vansh](https://vansh.works)
 
 <span>Learning and building everyday - one feature at a time.</span>
 
