@@ -9,7 +9,7 @@
 #### Languages and Tools
 
 
-<img style='height:64px;' src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,redux,tailwind,nodejs,express,mongodb,postgresql,prisma,mysql,git,github,vercel,npm,docker,vite,postman" alt="Skills" />
+<img style='height:64px;' src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,redux,tailwind,nodejs,express,mongodb,postgresql,prisma,mysql,git,github,vercel,npm,docker,vite,postman" alt="Skills" />
 
 ---
 
