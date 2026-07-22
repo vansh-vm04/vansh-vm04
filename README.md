@@ -11,7 +11,6 @@ Building scalable Web and Mobile applications • Exploring Cloud & DevOps • A
 <p align="center">
 <a href="https://vanshmorwani.com">Portfolio</a> •
 <a href="https://www.linkedin.com/in/vanshmorwani/">LinkedIn</a> •
-<a href="https://x.com/vanshhCodes">Twitter</a> •
 <a href="https://drive.google.com/file/d/1Oi5-eQyS2wuxssXgrPspljXgKEy41V7M/view">Resume</a>
 </p>
 
